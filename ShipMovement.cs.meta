@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c25bc9e85993a4981b2bcc23802ae41a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rightMissle: {fileID: 2575748815924766715, guid: d519dc1efa7e34b8fb9f47fec31efcf4,
+      type: 3}
+  - leftMissle: {fileID: 2575748815924766715, guid: d519dc1efa7e34b8fb9f47fec31efcf4,
+      type: 3}
+  - missle: {instanceID: 0}
+  - enemyShip: {fileID: 1519541563307086269, guid: cf5740452b28749da90763b2d03bc73b,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
